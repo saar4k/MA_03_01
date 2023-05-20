@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hoehenmesser2</string>
+    <string name="altitude_placeholder">Höhe</string>
+    <string name="calibration_value_placeholder">550 hPa</string>
+</resources>
