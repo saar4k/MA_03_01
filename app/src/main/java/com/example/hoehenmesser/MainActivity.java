@@ -35,12 +35,17 @@ public class MainActivity extends AppCompatActivity {
         calibratedPressure = sharedPreferences.getFloat(CALIBRATED_PRESSURE_KEY, 1012.25f);
         manualMode = sharedPreferences.getBoolean(MANUAL_MODE_KEY, false);
 
+
         SensorManager sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
         Sensor pressureSensor = sensorManager.getDefaultSensor(Sensor.TYPE_PRESSURE);
 
         SeekBar calibrationSlider = findViewById(R.id.calibration_slider);
         TextView calibration_value = findViewById(R.id.calibration_value);
         Button modeButton = findViewById(R.id.mode_button);
+
+
+        // Setzen der SeekBar-Position basierend auf dem gespeicherten kalibrierten Druck
+        calibrationSlider.setProgress((int) calibratedPressure);
 
         modeButton.setOnClickListener(v -> {
             manualMode = !manualMode;

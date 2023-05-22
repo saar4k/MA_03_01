@@ -1,9 +1,9 @@
-#Sat May 20 00:22:02 CEST 2023
-base.2=C\:\\Studium\\Sem_4\\Mobile_Anwendungsentwicklung\\MA_03_01_Hoehenmesser_persistent\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+#Mon May 22 23:28:34 CEST 2023
+base.2=C\:\\Users\\Sarak\\Desktop\\MA_03_01\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
 path.2=4/classes.dex
-base.1=C\:\\Studium\\Sem_4\\Mobile_Anwendungsentwicklung\\MA_03_01_Hoehenmesser_persistent\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\Sarak\\Desktop\\MA_03_01\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-base.0=C\:\\Studium\\Sem_4\\Mobile_Anwendungsentwicklung\\MA_03_01_Hoehenmesser_persistent\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=C\:\\Users\\Sarak\\Desktop\\MA_03_01\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -12,7 +12,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="altitude_placeholder">Höhe</string>
-    <string name="app_name">Hoehenmesser2</string>
+    <string name="app_name">MA_03_01_Hoehenmesser</string>
     <string name="calibration_value_placeholder">550 hPa</string>
     <style name="CustomToolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
         <item name="android:background">#ff964f</item>
